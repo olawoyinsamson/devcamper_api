@@ -1,0 +1,98 @@
+[
+    {
+    "name": "Devcentral Bootcamp",
+    "description": "Is coding your passion? Codemasters will give you the skills and the tools to become the best developer possible. We specialize in full stack web development and data science",
+    "website": "https://devcentral.com",
+    "address" : "online lecture",
+    "phone": "08035561859",
+    "email": "enroll@devcentral.com",
+    "location": {
+        "type": "Point",
+        "coordinates": [ "-71.10401","42.35086"],
+        "formattedAddress": "233 Bay State Rd, Boston, MA 02215, US",
+        "street": "233 Bay State Rd",
+        "city": "Boston",
+        "state": "MA",
+        "zipcode": "02215",
+        "country": "US"
+    },
+    "careers": ["Web Development", "Data Science", "Business"],
+    "slug": ""
+},
+{
+    "name": "ModernTech Bootcamps",
+    "description": "ModernTech has one goal, and that is to make you a rockstar developer and/or designer with a six figure salary, We teach both development and UI/UX",
+    "website": "https://moderntech.com",
+    "phone": "08035561859",
+    "address" : "online lecture",
+    "location": {
+        "type": "Point",
+        "coordinates": [ "-71.10401","42.35086"],
+        "formattedAddress": "233 Bay State Rd, Boston, MA 02215, US",
+        "street": "233 Bay State Rd",
+        "city": "Boston",
+        "state": "MA",
+        "zipcode": "02215",
+        "country": "US"
+    },
+    "careers": ["Web Development", "UI/UX", "Mobile Development"],
+    "slug": ""
+},
+{
+    "name": "Developer Bootcamps",
+    "description": "Devworks is a full stack JavaScript Bootcamp located in the heart of Boolean that focuses on the technologies you need to get a high paying job as a web developer",
+    "website": "https://devworks.com",
+    "phone": "08035561859",
+    "address" : "online lecture",
+    "location": {
+        "type": "Point",
+        "coordinates": ["3.20384","6.57042"],
+        "formattedAddress": "1 Bankole St, Lagos, LA, NG",
+        "street": "1 Bankole St",
+        "city": "Lagos",
+        "state": "LA",
+        "zipcode": "",
+        "country": "NG"
+    },
+    "careers": ["Web Development", "UI/UX", "Business"],
+    "slug": ""
+},
+{
+    "name": "Codemasters",
+    "description": "Is coding your passion? Codemasters will give you the skills and the tools to become the best developer possible. We specialize in full stack web development and data science",
+    "website": "https://moderntech.com",
+    "phone": "08035561859",
+    "address" : "online lecture",
+    "location": {
+        "type": "Point",
+        "coordinates": ["-71.10112","42.35038"],
+        "formattedAddress": "Bay State Rd, Boston, MA 02215, US",
+        "street": "Bay State Rd",
+        "city": "Boston",
+        "state": "MA",
+        "zipcode": "02215",
+        "country": "US"
+    },
+    "careers": ["Web Development", "Data Science", "Business"],
+    "slug": ""
+},
+{
+    "name": "Test Bootcamps",
+    "description": "Is coding your passion? Codemasters will give you the skills and the tools to become the best developer possible. We specialize in full stack web development and data science",
+    "website": "https://moderntech.com",
+    "phone": "08035561859",
+    "address" : "online lecture",
+    "location": {
+        "type": "Point",
+        "coordinates": ["-77.03196","38.89037"],
+        "formattedAddress": ", , , US",
+        "street": "",
+        "city": "",
+        "state": "",
+        "zipcode": "",
+        "country": "US"
+    },
+    "careers": ["Web Development", "Data Science", "Business"],
+    "slug": ""
+    }
+]

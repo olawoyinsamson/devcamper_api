@@ -1,0 +1,47 @@
+[
+    {
+        "title" : "Front End Web Development",
+        "description":"This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "63b2f08134bbd039884ce178"
+    },
+    {
+        "title" : "Full Stack Web Developer",
+        "description":"In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "63b2f08134bbd039884ce17a"
+    },
+    {
+        "title" : "Front End Web Development",
+        "description":"This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "63b2f08134bbd039884ce17a"
+    },
+    {
+        "title" : "Full Stack Web Developer",
+        "description":"In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "63b2f08134bbd039884ce17c"
+    },  
+    {
+        "title" : "Full Stack Web Developer",
+        "description":"In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with",
+        "weeks": 8,
+        "tuition": 8000,
+        "minimumSkill": "beginner",
+        "scholarshipsAvailable": true,
+        "bootcamp": "63b2f08134bbd039884ce17b"
+    }     
+]
